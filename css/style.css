@@ -1,0 +1,82 @@
+header{
+    width: 1900px;
+    height: 140px;
+    background-size: cover;
+    background: lightskyblue url("../img/pattern.png") 50% 20%;
+}
+
+#logo{
+    width: 200px;
+    position: relative;
+    top: 70px;
+}
+
+.author{
+    width: 210px;
+    height: 60px;
+    font-size: 20px;
+    color:lightgrey;
+}
+ 
+.blue{
+    color:lightskyblue;
+}
+
+#data{
+    font-size: 12px;
+}
+
+.photo-description{
+    width: 480px;
+    font-size: 15px;
+}
+
+.lorem{
+    width:1010px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+table, td{
+    width: 1100px;
+    margin: 0;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+    width: 500px;
+    margin-right: 40px;
+}
+
+.lightskyblue{
+    background-color: lightskyblue;
+    height: 30px;
+}
+
+h3{
+    color: grey;
+}
+
+.photo{
+    width: 220px;
+    height: 180px;
+    background-size: contain;
+    margin-bottom: 20px;
+}
+
+div{
+    position: relative;
+}
+
+h4{
+    color: white;
+    position: absolute;
+    margin: 0;
+    top: 10px;
+    left: 20px;
+    font-size: 20px;
+}
+
